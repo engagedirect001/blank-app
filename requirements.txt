@@ -1,1 +1,6 @@
 streamlit
+openai
+json
+time
+os
+tavily
